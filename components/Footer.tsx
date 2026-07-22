@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t border-slate-200 bg-white">
       <div className="mx-auto flex max-w-5xl flex-col gap-4 px-6 py-10 sm:flex-row sm:items-center sm:justify-between">
         <p className="text-xs text-slate-400">
-          © 2026 Chandu Atluri. All rights reserved. <code className="font-mono">/contracts</code>.
+          © 2026 Chandu Atluri. All rights reserved.
         </p>
         <div className="flex items-center gap-5">
           <Link href="/glossary" className="text-xs font-medium text-slate-500 hover:text-slate-900">
